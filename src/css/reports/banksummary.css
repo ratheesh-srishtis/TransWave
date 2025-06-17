@@ -1,0 +1,30 @@
+.banksummarybank{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.datebank{
+    width:100px;
+}
+.banksummarypayment{
+    margin-left: 15px;
+}
+.datepickerbank {
+    margin-left: 5px;
+    width:100px;
+  }
+
+.bansummary-datepicker{
+    font-size: 12px !important;
+}
+.bankdown{
+    margin-left:92px;
+}
+.statusscustomernew{
+      height: 34px;
+   width: 251px;
+}
+.statusscustomername{
+      height: 34px;
+   width: 200px;
+}

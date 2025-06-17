@@ -1,0 +1,32 @@
+.costcenterfontsize {
+  font-size: 12px;
+  margin-left: -14px;
+}
+.costcenterinput {
+  font-size: 12px;
+  margin-right: 10px;
+}
+.margincostcenter {
+  margin-left: 26px;
+}
+.pettymargin {
+  margin-left: 15px;
+}
+.costcenterport {
+  font-size: 12px;
+}
+.vesselboxcostcenter {
+  font-size: 12px;
+  padding-right: 34px !important;
+  color: black !important;
+}
+.costcenterportname {
+  font-size: 12px;
+  margin-left: 10px;
+}
+.MuiDataGrid-columnHeader {
+  background-color: #eee;
+}
+.hide-column {
+  color: #fff !important;
+}

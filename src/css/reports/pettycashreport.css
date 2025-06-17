@@ -1,0 +1,31 @@
+.pettybutton {
+  margin-left: 20px;
+  height: 34px;
+  width: 100px;
+}
+.datepickerpetty {
+  margin-left: 5px;
+  width: 100px;
+}
+.datepetty {
+  height: 24px;
+  font-size: 14px !important;
+}
+.employeepetty {
+  margin-left: 22px;
+}
+.filtermainpetty {
+  position: relative;
+  border: 1px solid #80808041;
+  width: 148px;
+  height: 35px;
+  max-width: 100%;
+  margin-left: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.css-1gak8h1-MuiToolbar-root-MuiTablePagination-toolbar {
+  min-height: 40px !important;
+}

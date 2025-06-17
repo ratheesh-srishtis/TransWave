@@ -1,0 +1,24 @@
+.customercostcenter{
+    margin-left: 21px;
+}
+.form-labelecostcenter {
+    font-size: 12px;
+     margin-right: 5px;
+    margin-bottom: 0rem;
+}
+.filtercostcenter {
+    padding: 0px 10px;
+    align-items: center;
+    height: 33px;
+    border: 0px;
+    font-size: 12px;
+    border: 0 !important;
+    box-shadow: inherit !important;
+    outline: 0 !important;
+}
+.mmonthcost {
+    font-size: 12px;
+    height: 34px;
+    margin-right: 32px;
+    margin-left: 10px;
+}

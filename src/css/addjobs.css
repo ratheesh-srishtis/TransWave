@@ -1,0 +1,7 @@
+td.addjob-click {
+  color: blue;
+  cursor: pointer;
+}
+td.addjob-click:hover {
+  text-decoration: underline;
+}

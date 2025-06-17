@@ -1,0 +1,17 @@
+.fouzerofour{
+    font-size: 100px;
+    font-weight: 600;
+    top: 209px;
+    color: rgb(10, 38, 182);
+    left: 479px;
+    position: absolute;
+}
+.notfoundobject{
+    position: relative;
+}
+.pagenotfound{
+    font-size: 40px;
+    font-weight: 800;
+    color:rgb(112, 112, 112);
+
+}
