@@ -263,7 +263,7 @@ const Login = () => {
           </div>
         </div>
         <div className="d-flex bottom-head">
-          <p className="copyright">Copyright &copy; TransOcean.</p>
+          <p className="copyright">Copyright &copy; TransWave.</p>
           <p className="footerlinks pl-2">
             <a href="#">Policy</a> | <a href="#"> Terms & Conditions </a>{" "}
           </p>
